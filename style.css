@@ -1,0 +1,38 @@
+body {
+    background-color: #f4e3dc;
+    font-family: 'Arial', sans-serif;
+  }
+  .navbar {
+    background-color: white;
+  }
+  .btn-green {
+    background-color: #00e676;
+    color: black;
+    font-weight: bold;
+  }
+  .btn-green:hover {
+    background-color: #00c853;
+    color: white;
+  }
+  .section-title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 2rem 0 1rem;
+  }
+  .pet-card, .info-card, .apoio-box {
+    border: 3px solid #00e676;
+    background-color: #eeeeee;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  footer {
+    background-color: #00e676;
+    padding: 2rem 1rem;
+    color: black;
+  }
+  footer a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  }
